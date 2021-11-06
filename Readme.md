@@ -1,3 +1,7 @@
-## About the Project
+## About The Project
 
-In progress...
+<br/>
+
+![Ecommerce Card Item Screenshot](/project-image.png?raw=true)
+
+<br/>
